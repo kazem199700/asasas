@@ -17,8 +17,8 @@
 
 # التنصيب
 
-git clone https://github.com/x7h/x7_bot.git
-cd x7_bot
+git clone https://github.com/kazem199700/asasas
+cd asasas
 chmod +x x7_bot.sh
 ./x7_bot.sh install
 ./x7_bot.sh 
